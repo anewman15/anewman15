@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-around; align-items: flex-end;">
+<div style="display: flex; justify-content: space-between; align-items: flex-end;">
   <img src="https://github-readme-stats.vercel.app/api/?username=anewman15&include_all_commits=true&show_icons=true&theme=gruvbox" width="53%">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anewman15&show_icons=true&theme=merko&layout=compact" width="44%">
